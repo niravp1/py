@@ -1,3 +1,6 @@
+#Takes user input convets it into int then puts these values into totalsum vairable. from tehre using min function finds the lowest value and max function for the largest value 
+#then to find middle add all first_num second_num _third_num - smallest - largest which gives you the middle value. Then prints at the very bottom
+
 first_num = int(input("Please enter the first integer:"))
 second_num = int(input("Please enter the second integer:"))
 third_num= int(input("Please enter the third integer:"))
