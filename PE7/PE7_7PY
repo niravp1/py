@@ -1,0 +1,5 @@
+import random
+
+num = []
+num.append(random.randint(0,100))
+print(num)
